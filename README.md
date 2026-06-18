@@ -9,11 +9,9 @@ It was built to demonstrate Power BI and especially SQL skills needed for transi
 Hopefully, it will prove skills beyond just dashboard design, including schema design, data-quality checking, data transformation,
 creation of advanced metrics and finally creating visually compelling presentation in Power BI.
 
-**Live report (no Power BI account needed to view):** https://app.powerbi.com/view?r=eyJrIjoiNzQ1YjFhMTMtY2QwMS00OTE3LWJkNjItOWU2ZmM5YThkNDQ4IiwidCI6ImUzYmY3OWFhLTExZTktNDkwOS1hYzI4LTA1N2IzOGY3YmUyOSIsImMiOjl9&pageName=c1a259f8029dc9423d70
+**Live report (no Power BI account needed to view):** [View the interactive report](https://app.powerbi.com/view?r=eyJrIjoiNzQ1YjFhMTMtY2QwMS00OTE3LWJkNjItOWU2ZmM5YThkNDQ4IiwidCI6ImUzYmY3OWFhLTExZTktNDkwOS1hYzI4LTA1N2IzOGY3YmUyOSIsImMiOjl9&pageName=c1a259f8029dc9423d70)
 
-**GitHub Repository:** https://github.com/nemanja-tom/nba-player-stats
-
-**Author:** Nemanja Tomić - https://www.linkedin.com/in/nemanja-tomic-data/
+**Author:** Nemanja Tomić - [LinkedIn](https://www.linkedin.com/in/nemanja-tomic-data/)
 
 
 ## Overview
