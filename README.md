@@ -179,6 +179,7 @@ and stats that were not crucial to show on the quick career overview page (such 
 ## Repository structure
 
 - pbi/
+  	- sample_report_page.png
 	- example_measures.md
 	- PBI_model.png
 	- PBI_relationships.png
